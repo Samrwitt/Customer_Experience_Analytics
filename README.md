@@ -55,7 +55,7 @@ We collected 400+ reviews per bank using the `google-play-scraper` library and s
 
 ---
 
-##  Task 3: Oracle Database Engineering (In Progress)
+##  Task 3: Oracle Database Engineering
 
 ### Planned Schema:
 
