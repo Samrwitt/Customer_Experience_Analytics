@@ -1,2 +1,11 @@
 pandas
 google-play-scraper
+transformers
+torch
+scikit-learn
+keybert
+matplotlib
+seaborn
+wordcloud
+oracledb
+python-dotenv
